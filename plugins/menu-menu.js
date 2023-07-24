@@ -64,7 +64,6 @@ ${readMore}
 ┣ ඬ⃟ 💟 _${usedPrefix}estado_
 ┣ ඬ⃟ 💟 _${usedPrefix}infobot_
 ┣ ඬ⃟ 💟 _${usedPrefix}speedtest_
-┣ ඬ⃟ 💟 _${usedPrefix}donar_
 ┣ ඬ⃟ 💟 _${usedPrefix}grouplist_
 ┣ ඬ⃟ 💟 _${usedPrefix}owner_
 ┣ ඬ⃟ 💟 _${usedPrefix}script_
